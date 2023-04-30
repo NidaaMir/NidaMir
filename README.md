@@ -1,2 +1,2 @@
 # NidaMir
-Codes used while learning Python!
+Codes used in class while learning Python!
